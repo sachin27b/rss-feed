@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/gte-multilingual-base
+/multilingual-e5-large-instruct
